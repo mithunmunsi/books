@@ -2,6 +2,10 @@
 
 Welcome to the Book App! This application allows users to explore a vast collection of books, read details about each book, and search book.
 
+# Live Page
+
+- https://books-react-bch.netlify.app/
+
 # Features
 
 - Browse Books: Explore a diverse selection of books covering various genres, authors, and topics.
